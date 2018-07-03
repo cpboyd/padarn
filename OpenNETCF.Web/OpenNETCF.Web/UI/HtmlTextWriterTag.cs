@@ -35,214 +35,273 @@ namespace OpenNETCF.Web.UI
         Unknown,
         /// <summary>
         /// The HTML a element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
         /// </summary>
         A,
         /// <summary>
         /// The HTML address element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address
         /// </summary>
         Address,
         /// <summary>
         /// The HTML area element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area
         /// </summary>
         Area,        
         /// <summary>
         /// The HTML blockquote element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote
         /// </summary>
         Blockquote,        
         /// <summary>
-        ///  The HTML body element.  
+        /// The HTML body element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body
         /// </summary>
         Body,
         /// <summary>
         /// The HTML br element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br
         /// </summary>
         Br,       
         /// <summary>
         /// The HTML button element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
         /// </summary>
         Button,
         /// <summary>
-        /// The HTML caption element.  
+        /// The HTML caption element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption
         /// </summary>
         Caption,
         /// <summary>
         /// The HTML code element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code
         /// </summary>
         Code,        
         /// <summary>
         /// The HTML col element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col
         /// </summary>
         Col,
         /// <summary>
         /// The HTML colgroup element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup
         /// </summary>  
         Colgroup,        
         /// <summary>
         /// The HTML div element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
         /// </summary>
         Div,
         /// <summary>
         /// The HTML fieldset element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset
         /// </summary>
         Fieldset,        
         /// <summary>
         /// The HTML form element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
         /// </summary>
         Form,        
         /// <summary>
         /// The HTML H1 element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h1
         /// </summary>
         H1,
         /// <summary>
         /// The HTML H2 element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h2
         /// </summary>
         H2,
         /// <summary>
         /// The HTML H3 element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h3
         /// </summary>
         H3,
         /// <summary>
         /// The HTML H4 element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h4
         /// </summary>
         H4,
         /// <summary>
         /// The HTML H5 element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h5
         /// </summary>
         H5,
         /// <summary>
         /// The HTML H6 element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h6
         /// </summary>
         H6,
         /// <summary>
         /// The HTML head element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
         /// </summary>
         Head,          
         /// <summary>
         /// The HTML html element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html
         /// </summary>
         Html,
         /// <summary>
         /// The HTML hr element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr
         /// </summary>
         Hr,
         /// <summary>
         /// The HTML i element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i
         /// </summary>
         I,
         /// <summary>
         /// The HTML iframe element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
         /// </summary>
         Iframe,
         /// <summary>
         /// The HTML img element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
         /// </summary>
         Img,
         /// <summary>
         /// The HTML input element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
         /// </summary>
         Input,
         /// <summary>
         /// The HTML label element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
         /// </summary>
         Label,
         /// <summary>
         /// The HTML legend element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend
         /// </summary>
         Legend,
         /// <summary>
         /// The HTML li element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li
         /// </summary>
         Li,
         /// <summary>
         /// The HTML link element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
         /// </summary>
         Link,
         /// <summary>
         /// The HTML meta element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
         /// </summary>
         Meta,
         /// <summary>
         /// The HTML object element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object
         /// </summary>
         Object,
         /// <summary>
         /// The HTML ol element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol
         /// </summary>
         Ol,
         /// <summary>
         /// The HTML option element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option
         /// </summary>
         Option,        
         /// <summary>
         /// The HTML p element.   
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
         /// </summary>        
         P,
         /// <summary>
         /// The HTML param element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param
         /// </summary>
         Param,
         /// <summary>
         /// The HTML pre element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
         /// </summary>
         Pre,
         /// <summary>
         /// The HTML script element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
         /// </summary>
         Script,        
         /// <summary>
         /// The HTML select element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
         /// </summary>
         Select,
         /// <summary>
         /// The HTML span element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span
         /// </summary>
         Span,
         /// <summary>
         /// The HTML strike element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike
         /// </summary>
+        [Obsolete("This element is deprecated in HTML 4 and XHTML 1, and obsoleted in HTML5. If semantically appropriate, i.e., if it represents deleted content, use <del> instead. In all other cases use <s>.")]
         Strike,
         /// <summary>
         /// The HTML strong element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
         /// </summary>
         Strong, 
         /// <summary>
         /// The HTML style element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style
         /// </summary>
         Style,        
         /// <summary>
         /// The HTML table element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
         /// </summary>
         Table,
         /// <summary>
         /// The HTML tbody element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody
         /// </summary>
         Tbody,
         /// <summary>
         /// The HTML td element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td
         /// </summary>
         Td,
         /// <summary>
         /// The HTML textarea element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
         /// </summary>
-        Textarea,        
+        Textarea,
+        /// <summary>
+        /// The HTML tfoot element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot
+        /// </summary>
+        Tfoot,    
         /// <summary>
         /// The HTML th element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th
         /// </summary>
         Th,
         /// <summary>
         /// The HTML thead element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead
         /// </summary>
         Thead,
         /// <summary>
         /// The HTML title element.
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title
         /// </summary>
         Title,        
         /// <summary>
         /// The HTML tr element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr
         /// </summary>
         Tr,        
         /// <summary>
         /// The HTML ul element.  
+        /// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
         /// </summary>
         Ul,
         
@@ -289,7 +348,6 @@ namespace OpenNETCF.Web.UI
           
         //Sub The HTML sub element.  
         //Sup The HTML sup element.  
-        //Tfoot The HTML tfoot element.  
           
         //Tt The HTML tt element.  
         //U The HTML u element.  
