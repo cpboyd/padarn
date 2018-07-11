@@ -172,6 +172,7 @@
     <Compile Include="Helpers\UrlPath.cs" />
     <Compile Include="Hosting\AsyncWorkerRequest.cs" />
     <Compile Include="Hosting\HostingEnvironment.cs" />
+    <Compile Include="Hosting\SslWorkerRequest.cs" />
     <Compile Include="Hosting\VirtualDirectory.cs" />
     <Compile Include="Hosting\VirtualFile.cs" />
     <Compile Include="Hosting\VirtualFileBase.cs" />
